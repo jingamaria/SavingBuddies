@@ -1,0 +1,53 @@
+body {
+	background: #212529;
+}
+h2 {
+	font-size: 55px;
+	color: White;
+	text-align: center;
+	font-weight: bold;
+}
+
+p {
+	font-size: 30px;
+	color: White;
+	text-align: center;
+	margin-top: 30px;
+}
+
+.carousel-inner {
+	justify-content: center;
+	width: 100%;
+	height: 500px;
+}
+
+.dc {
+	margin-top: 55px;
+	border: 5px solid;
+	color: White;
+
+}
+.feature ul {
+	padding-left: 4rem;
+	line-height: 3rem;
+	font-size: 30px;
+	margin-top: 3rem;
+}
+
+
+.adopta {
+	margin-top: 160px;
+}
+
+.echipa {
+	margin-top: 160px;
+}
+
+h5 {
+	font-size: 25px;
+}
+
+.cnt {
+	margin-top: 130px;
+}
+
